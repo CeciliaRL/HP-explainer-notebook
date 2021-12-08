@@ -4,4 +4,4 @@ To run the explainer notebook download both the *Explainer-notebook.ipynb* and t
 
 The notebook called *Data cleaning.ipynb* goes through how we download and clean the HP-wiki pages to get the characters and links for our network. 
 
-Press **Code** and then **Download as zip**. 
+Press **Code** and then **Download Zip**. 
