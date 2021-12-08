@@ -1,3 +1,4 @@
 # HP-explainer-notebook
 
-Download both the explainer notebook and the Data-files
+To run the notebook download both the HP-explainer-notebook.ipynb and the Data-files (this folder contains images displayed in the notebook).
+
